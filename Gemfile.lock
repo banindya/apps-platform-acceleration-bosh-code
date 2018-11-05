@@ -59,10 +59,10 @@ PLATFORMS
 
 DEPENDENCIES
   bosh_cli (= 1.3262.24.0)
-  bundler (~> 1.13.6)
+  bundler (~> 1.17.1)
 
 RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.13.6
+   1.17.1
